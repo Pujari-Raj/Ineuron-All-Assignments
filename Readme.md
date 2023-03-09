@@ -6,4 +6,4 @@
 
 3. [Tailwind_Css_Assignment](https://github.com/Pujari-Raj/Ineuron-All-Assignments/blob/main/Tailwind_Assignments.md)
 
-4. [JavaScript_Assignment]()
+4. [JavaScript_Assignment](https://github.com/Pujari-Raj/Ineuron-All-Assignments/blob/main/Javascript_Assignments.md)
